@@ -1,0 +1,9 @@
+{
+    "plugins": [
+      "no-eval"
+    ],
+    "rules": {
+      "no-eval": "error"
+    }
+  }
+  
